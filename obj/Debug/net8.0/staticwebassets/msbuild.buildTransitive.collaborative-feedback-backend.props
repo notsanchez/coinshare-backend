@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\collaborative-feedback-backend.props" />
+</Project>
